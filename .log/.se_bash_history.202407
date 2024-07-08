@@ -1,0 +1,788 @@
+res:0	pwd:/c/Users/nommi/oithomes/se
+res:0	pwd:/c/Users/nommi/oithomes/se
+#1719792757
+dir
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai
+#1719792760
+cd kadai
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai
+#1719792761
+dir
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1719792766
+cd se24
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1719792769
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1719792802
+pwd
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1719793731
+getenv
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1719793736
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719793750
+cd sequality/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719793752
+pwd
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719793755
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719793796
+gradle init --type java-application
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794002
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794017
+cd app
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794018
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794029
+vi build.gradle
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794131
+gradle tasks
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794231
+pwd
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794233
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794234
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794238
+dir
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794242
+ls -la
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794287
+cd app
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794288
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app/src
+#1719794294
+cd src/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app/src
+#1719794295
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794299
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719794300
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794302
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719794302
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/gradle_sample
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795495
+pwd
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795511
+git init
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795524
+git status
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795582
+nano .gitignore 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795639
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795659
+git status
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795698
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795734
+git commit -m "add gradle project"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795761
+git branch -M master main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795808
+git remote add origin git@github.com:nomura-mitsuki/sequality.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719795840
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796364
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719796370
+cd app
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719796371
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app/src
+#1719796375
+cd src/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app/src
+#1719796375
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719796384
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality/app
+#1719796385
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796387
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796387
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796399
+gradle build
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796449
+gradle build
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796461
+gradle build
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796773
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796855
+git commit -m "XXXX"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719796866
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719797414
+git pull origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719797806
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719797854
+git commit -m "add gradle project"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719797882
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719798469
+gradle run
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719894428
+gradle run
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719894464
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719894494
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719901707
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719902568
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719902618
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719902704
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719902763
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719902825
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719902862
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903012
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903067
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903092
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903130
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903173
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903234
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903278
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903357
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903380
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903423
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903452
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903484
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903884
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719903962
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904241
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904410
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904462
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904498
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904617
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904720
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719904841
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1719964043
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720025383
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720025487
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720025519
+git commit -m "testプログラム実装"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720025536
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720159755
+gradle run
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720159802
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720159807
+git commit -m "testプログラム実装"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/sequality
+#1720159813
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se
+res:0	pwd:/c/Users/nommi/oithomes/se
+#1720397028
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai
+#1720397030
+cd kadai
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai
+#1720397031
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720397035
+cd se24
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720397036
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720401575
+getlocal
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720401585
+getenv
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720401588
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401598
+cd semonster2
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401599
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401632
+gradle init --type java-application
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401706
+git init
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401755
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/gradle
+#1720401771
+cd gradle
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/gradle
+#1720401773
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401776
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app
+#1720401820
+cd app
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app
+#1720401820
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401828
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401831
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401839
+ls -la
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401854
+vim .gitignore
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401946
+git add -A
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401982
+git swich master main
+res:128	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720401997
+git switch master main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402180
+git branch -M main 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402200
+git remote add origin git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402229
+git commit -m "add"
+res:128	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402258
+git push main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402299
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402310
+git status
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402323
+git log
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402691
+git status
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720402696
+git log
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720403015
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app
+#1720403019
+cd app
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app
+#1720403020
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src
+#1720403022
+cd src/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src
+#1720403023
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main
+#1720403025
+cd main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main
+#1720403027
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java
+#1720403031
+cd java/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java
+#1720403032
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org
+#1720403039
+cd org
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org
+#1720403040
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403044
+cd example/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403045
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403169
+cat App.java 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403266
+vim App.java 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403306
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403350
+git commit -m "App.java"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403360
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org/example
+#1720403708
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org
+#1720403710
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java/org
+#1720403711
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java
+#1720403713
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main/java
+#1720403714
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main
+#1720403716
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/main
+#1720403718
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src
+#1720403728
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src
+#1720403730
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test
+#1720403736
+cd test/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test
+#1720403737
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java
+#1720403755
+cd java/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java
+#1720403755
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org
+#1720403759
+cd org/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org
+#1720403760
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720403763
+cd example/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720403763
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720403769
+vim AppTest.java 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720403950
+cat AppTest.java 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720404223
+ /usr/bin/env C:\\oit\\se24-byod\\amazonjdk21.0.3_9\\bin\\java.exe -Xlog:jni+resolve=off -XX:+ShowCodeDetailsInExceptionMessages -cp C:\\oit\\se24-byod\\VSCode-win32-x64-1.88.1\\data\\user-data\\User\\workspaceStorage\\9a76481aeed70caa2e3b8cec4c99c791\\redhat.java\\jdt_ws\\jdt.ls-java-project\\bin org.example.App 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720405627
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407241
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407263
+git fetch origin
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407316
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407318
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407849
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407857
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407886
+git commit -m "MonsterTestデバック"
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720407897
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408221
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408229
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408240
+git fetch origin
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408250
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408736
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408743
+git fetch origin
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408752
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408776
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408783
+git fetch origin
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720408792
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409020
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409025
+git fetch origin
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409032
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409337
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409342
+git fetch origin
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409348
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409461
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409467
+git fetch origin
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409473
+git merge origin/main
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409497
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409753
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409761
+git fetch origin
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409769
+git fetch origin
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720409774
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410246
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410254
+git fetch origin
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410263
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410376
+git add -A
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410391
+git commit -m "player.java"
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410399
+git push origin main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410483
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410492
+git fetch origin
+res:130	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410501
+git push origin main
+res:1	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410509
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410727
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410735
+git fetch origin
+res:128	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720410744
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720411564
+git fetch git@github.com:nomura-mitsuki/semonster2.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720411572
+git fetch origin
+res:128	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720411579
+git merge origin/main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org/example
+#1720412206
+pwd
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org
+#1720412209
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java/org
+#1720412210
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java
+#1720412212
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test/java
+#1720412213
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test
+#1720412214
+cd .. 
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src/test
+#1720412215
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src
+#1720412217
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app/src
+#1720412218
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app
+#1720412220
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2/app
+#1720412220
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720412222
+cd ..
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720412224
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720412392
+zipwork
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720412400
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720425898
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/semonster2
+#1720426033
+git log
+res:0	pwd:/c/Users/nommi/oithomes/se
+res:0	pwd:/c/Users/nommi/oithomes/se
+res:0	pwd:/c/Users/nommi/oithomes/se
+#1720454044
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai
+#1720454047
+cd kadai
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai
+#1720454048
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454055
+cd se24
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454055
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454297
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454309
+git init
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454344
+git status
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454720
+git branch -M main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454729
+git branch -M master
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454731
+git branch -M main
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454777
+git remote add origin git@github.com:nomura-mitsuki/practice.git
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454784
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454830
+mkdir practice
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24
+#1720454832
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/practice
+#1720454841
+cd practice/
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/practice
+#1720454842
+ls
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/practice
+#1720454868
+vim practice.java
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/practice
+#1720455055
+pwd
+res:0	pwd:/c/Users/nommi/oithomes/se/kadai/se24/practice
+#1720455057
+ls
